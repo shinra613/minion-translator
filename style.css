@@ -87,6 +87,9 @@ textarea{
     font: 15px;
     padding: 5px 40px;
     border-radius: 1rem;
+    background: transparent;
+    color:#F1CE28;
+    border: 2px solid #F1CE28;
 }
 
 
@@ -96,7 +99,7 @@ textarea{
     margin-top:40px;
     padding: 10px;
     font-size: 10px;
-    color: white;
+    color:#F1CE28;
     
 }
 
