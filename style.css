@@ -84,8 +84,9 @@ textarea{
 }
 
 #btn-translate{
-
-    padding: 20px 40px;
+    font: 15px;
+    padding: 5px 40px;
+    border-radius: 1rem;
 }
 
 
